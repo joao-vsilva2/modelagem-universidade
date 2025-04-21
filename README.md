@@ -14,7 +14,7 @@
 ### - Implementação
 ### - Testes básicos
 #
-## Requisitos iniciais:
+## Levantamento dos requisitos:
 ### - Um aluno só poderá ser matriculado em um curso por vez
 ### - Alunos possuem um código de verificação (RA)
 ### - Cursos são compostos por disciplinas
@@ -34,3 +34,20 @@
 ### - Cada professor irá lecionar até quatro disciplinas diferentes
 ### - Cada professor é vinculado a um departamento
 ### - Professores são identificados por um código de professor
+#
+## Identificação da entidade:
+### - Aluno
+### - Professor
+### - Disciplina
+### - Curso
+### - Departamento
+#
+## Identificação dos relacionamentos:
+### - Aluno está matriculado em curso
+### - Aluno cursa disciplina
+### - Aluno realizou disciplina
+### - Disciplina pertence a curso
+### - Professor ministra disciplina
+### - Professor pertence a departamento
+### - Departamento é responsável por disciplina
+### - Departamento controla curso
