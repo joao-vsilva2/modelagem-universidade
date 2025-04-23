@@ -87,3 +87,6 @@
 ## Identificando atributos - Departamento:
 ### - Código do Departamento
 ### - Nome do Departamento
+#
+## Esboço - Diagrama ER:
+![Image](https://github.com/user-attachments/assets/c6273ee4-e595-44ba-92a1-48940d3ddfa6)
