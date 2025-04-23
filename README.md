@@ -51,3 +51,39 @@
 ### - Professor pertence a departamento
 ### - Departamento é responsável por disciplina
 ### - Departamento controla curso
+### - Disciplina depende da disciplina (Requisito)
+#
+## Identificando atributos - aluno:
+### - Número da matrícula
+### - Nome
+### - Sobrenome
+### - Endereço:
+#### - Rua
+#### - Número
+#### - Bairro
+#### - CEP
+#### - Cidade
+#### - Estado
+### - Código do curso 
+#
+## Identificando atributos - Professor:
+### - Código do professor
+### - Nome
+### - Sobrenome
+### - Código do departamento
+#
+## Identificando atributos - Disciplina:
+### - Código da disciplina
+### - Nome da disciplina
+### - Descrição Curricular
+### - Código do departamento
+### - Número de alunos
+#
+## Identificando atributos - Curso:
+### - Código do curso
+### - Nome do curso
+### - Código do departamento
+#
+## Identificando atributos - Departamento:
+### - Código do Departamento
+### - Nome do Departamento
