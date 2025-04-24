@@ -105,8 +105,8 @@
 ---
 
 ## Identificando atributos - Departamento:
-### - Código do Departamento
-### - Nome do Departamento
+- Código do Departamento
+-- Nome do Departamento
 
 ---
 
