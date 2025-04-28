@@ -113,18 +113,27 @@
 ## Esboço - Diagrama ER:
 ![Image](https://github.com/user-attachments/assets/c6273ee4-e595-44ba-92a1-48940d3ddfa6)
 
+---
+
 ## Novas entidades:
-- Turma
-- Histórico
+- **Turma**
+- **Histórico**
+  
+---
 
 ## Novos relacionamentos:
-- Curso gera Turma
-- Aluno pertence a Turma
-- Hisrórico compões Disciplina
-- Histórico pertence a um aluno
+- **Curso** gera **Turma**
+- **Aluno** pertence a **Turma**
+- **Hisrórico** compões **Disciplina**
+- **Histórico** pertence a um **Aluno**
+
+---
 
 # Novos atributos:
-- Histórico: Cód. histórico, Notas, Média, Frequência, Período Realização, RA, Cód. Disciplina
-- Turma: Cód. turma, Período, Cód. curso, Número de alunos, Data início, Data fim
+- **Histórico**: Cód. histórico, Notas, Média, Frequência, Período Realização, RA, Cód. Disciplina
+- **Turma**: Cód. turma, Período, Cód. curso, Número de alunos, Data início, Data fim
+
+---
 
 ## Intermediário - Diagrama ER:
+![Image](https://github.com/user-attachments/assets/bdd4a711-ed99-495e-a873-a20b565eb582)
