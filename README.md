@@ -137,3 +137,12 @@
 
 ## Intermediário - Diagrama ER:
 ![Image](https://github.com/user-attachments/assets/bdd4a711-ed99-495e-a873-a20b565eb582)
+
+---
+
+# ATUALIZAÇÃO
+- Atributos de cada entidade foi adicionada
+- Atributos **contato** e **endereco** foram adicionados às entidades **Aluno** e **Professor**
+
+## Intermediário 2 - Diagrama ER:
+![Image](https://github.com/user-attachments/assets/0b39784d-1953-4340-9193-abeff02abe6a)
