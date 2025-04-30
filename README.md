@@ -146,3 +146,13 @@
 
 ## Intermediário 2 - Diagrama ER:
 ![Image](https://github.com/user-attachments/assets/0b39784d-1953-4340-9193-abeff02abe6a)
+
+---
+
+# ATUALIZAÇÃO 2
+- Renomeação do relacionamento entre as entidades **Professor** e **Disciplina** para **Ministra**
+- Inserção do autorelacionamento da entidade **Disciplina**
+- Cálculo das cardinalidades
+
+## Intermediário 3 - Diagrama ER:
+![Image](https://github.com/user-attachments/assets/41653704-f54f-41ea-899a-85655ef5beca)
